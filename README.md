@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kstobd
-- 👀 I’m interested in study
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate with somebody...
 - 📫 How to reach me: you can find me everywhere by nick @kst_obd
 
